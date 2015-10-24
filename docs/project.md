@@ -33,7 +33,7 @@
 
 <img src="../images/proj4.jpg" width="600" height="400"/>
 
-### 05. [基于OpenCV的图像处理平台界面设计]https://github.com/yajunyang/ImgP)
+### 05. [基于OpenCV的图像处理平台界面设计](https://github.com/yajunyang/ImgP)
 > **项目描述（独立完成）：** 该项目主要将Qt优良的界面设计风格和OpenCV图像处理工具包结合起来，将一些通用的图像处理算法（比如Canny边缘检测）以界面的形式呈现出来。<p>
 
 <img src="../images/proj5.jpg" width="600" height="400"/>
