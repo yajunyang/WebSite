@@ -3,3 +3,4 @@ pages:
 - 首页: 'index.md'
 - 个人简介: 'resume.md'
 - 项目简介: 'project.md'
+- 出版物：'pubs.md'
