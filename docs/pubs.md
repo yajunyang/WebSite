@@ -1,1 +1,0 @@
-<a href="publications/paper.pdf"一种图像线形结构提取算法</a>
